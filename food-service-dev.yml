@@ -6,8 +6,8 @@ spring:
     name: "food-service"
   datasource:
     url: jdbc:mysql://localhost:3306/microservicess
-    username: Sam_spark
-    password: java
+    username: a4ca1739b75fbbbf81b2e9235e1b6ae930f5f74c54ee425a6dbb2fd1ed294d1f
+    password: dcf3a69cb0ad2810547b6752e181ad99b3dd0e68ca697444668ee84b724942a1
     driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     hibernate:
